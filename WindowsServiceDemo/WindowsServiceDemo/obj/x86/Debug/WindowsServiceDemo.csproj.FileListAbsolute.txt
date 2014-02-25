@@ -1,0 +1,13 @@
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.pdb
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\WindowsServiceDemo.ProjectInstaller.resources
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\WindowsServiceDemo.Service1.resources
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\WindowsServiceDemo.exe
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\WindowsServiceDemo.pdb
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe.manifest
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.application
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\WindowsServiceDemo.exe.manifest
+c:\documents and settings\wuqiuyan\my documents\visual studio 2010\Projects\WindowsServiceDemo\WindowsServiceDemo\obj\x86\Debug\WindowsServiceDemo.application
